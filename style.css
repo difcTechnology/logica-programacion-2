@@ -1,0 +1,26 @@
+#mensaje {
+  display: inline-block;
+  color: red;
+  text-align: center;
+  width: 50%;
+}
+
+#contenedor {
+  margin: 0 auto;
+  border: 1px solid black;
+  width: fit-content;
+}
+
+#resultado {
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+}
+
+#formulario {
+  margin: 30px;
+}
+
+h1 {
+  text-align: center;
+}
